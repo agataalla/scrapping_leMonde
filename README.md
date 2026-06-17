@@ -1,5 +1,5 @@
 # scrapping_leMonde
 
-# scrapping Le Monde because why not (someone asked me)
+# scrapping Le Monde because why not
 
-Grabbing content on le Monde landing page, download it as csv 
+Grabbing content on le Monde landing page, downloading it as csv 
